@@ -1,7 +1,10 @@
 export const environment = {
+  // production: true,
+  // apiBaseUrl: 'https://api.pepify.com',
+  // appName: 'Pepify',
+
   production: true,
-  apiBaseUrl: 'https://api.pepify.com',
-  appName: 'Pepify',
+  apiBaseUrl: 'https://pepscanner-be.onrender.com/api',
   version: '1.0.0',
   features: {
     enableAnalytics: true,
